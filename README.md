@@ -8,6 +8,19 @@ actions that would otherwise mean opening a dozen web UIs.
 > optional and configured in the app, so it works with any setup that runs the same software, but
 > there is no support and I don't take feature requests.
 
+<p align="center">
+  <img src="screenshots/status.png" width="200">
+  <img src="screenshots/now.png" width="200">
+  <img src="screenshots/proxmox.png" width="200">
+</p>
+<p align="center">
+  <img src="screenshots/kuma.png" width="200">
+  <img src="screenshots/sabnzbd.png" width="200">
+  <img src="screenshots/claude.png" width="200">
+</p>
+
+<sub>Screenshots use generated demo data.</sub>
+
 ## Download
 
 - Latest APK: [homelab.apk](https://github.com/narucx/homelab-android/releases/latest/download/homelab.apk)
